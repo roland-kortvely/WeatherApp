@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="author">Roland</string>
+    <string name="city">Slovakia</string>
+    <string name="date">20 April 2012, 20:08 PM</string>
+    <string name="status">Clear Sky</string>
+    <string name="temp">29°C</string>
+    <string name="min_temp">Min Temp: 05:05 AM</string>
+    <string name="max_temp">Max Temp: 05:05 PM</string>
+    <string name="created_by">Created By</string>
+    <string name="error">Something went wrong</string>
+    <string name="location">Location</string>
+    <string name="gps">GPS</string>
+</resources>
